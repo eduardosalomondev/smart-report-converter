@@ -121,14 +121,11 @@ contrato, nome do convênio, valores, data de lançamento e desconto, etc.).
 - Não há testes automatizados ainda — próximo passo natural seria
   `pytest` cobrindo a lógica de `converter.py`.
 
-<<<<<<< HEAD
-## Descrição para currículo / portfólio
 
 > Sistema de automação desenvolvido em Python para conversão de arquivos
 > TXT em relatórios Excel estruturados, com processamento assíncrono e
 > feedback de progresso em tempo real via interface web feita em Flask.
 
-## Roteiro para apresentar em entrevista
 
 - **Problema que resolve:** elimina o trabalho manual e repetitivo de
   transformar arquivos de folha de pagamento/consignado em relatórios
