@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Smart Report Converter
 
 =======
