@@ -1,7 +1,7 @@
 
 # Smart Report Converter
 
-=======
+
 # Excel Report Automation
 Sistema de automação desenvolvido em Python para conversão de arquivos TXT
 de folha de pagamento/consignado em relatórios Excel estruturados, com
