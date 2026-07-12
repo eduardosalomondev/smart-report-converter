@@ -100,7 +100,7 @@ http://localhost:5000
 
 ## 👨‍💻 Desenvolvedor
 
-**Eduardo Salomon**
+**Eduardo Marques**
 
 GitHub: **https://github.com/eduardosalomondev**
 
