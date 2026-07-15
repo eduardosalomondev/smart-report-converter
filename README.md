@@ -102,7 +102,7 @@ http://localhost:5000
 
 **Eduardo Marques**
 
-GitHub: **https://github.com/eduardosalomondev**
+
 
 ---
 
